@@ -15,6 +15,7 @@ public class HomeController {
 
     @RequestMapping(value="/home")
     public String home2(Model model) {
+        System.out.println("dfdf");
         return "home/index2";
     }
 }

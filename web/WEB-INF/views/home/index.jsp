@@ -12,6 +12,7 @@
     <script>
         location.replace("<%=request.getContextPath()%>/home.do");
 
+
     </script>
 </head>
 <body>
