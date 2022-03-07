@@ -10,12 +10,10 @@
 <head>
     <title>Title</title>
 
-    <script type="text/javascript">
 
-    </script>
 </head>
 <body>
-    <table id="dataTable" class="boardList" summery="프로그램 리스트">
+    <table id="dataTable" class="boardList" summery="프로그램 리스트" border="1">
         <caption>프로그램 리스트</caption>
         <colgroup>
             <col with="10%">

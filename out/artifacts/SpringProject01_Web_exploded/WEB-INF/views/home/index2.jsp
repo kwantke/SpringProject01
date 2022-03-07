@@ -10,11 +10,34 @@
 <head>
     <title>Title</title>
 
-    <script type="text/javascript">
 
-    </script>
 </head>
-<body>ddddddddd22222222
+<body>
+    <table id="dataTable" class="boardList" summery="프로그램 리스트" border="1">
+        <caption>프로그램 리스트</caption>
+        <colgroup>
+            <col with="10%">
+            <col with="10%">
+            <col with="10%">
+            <col with="10%">
+            <col with="10%">
+            <col with="10%">
+        </colgroup>
+        <thead>
+            <tr>
+                <th>no</th>
+                <th>이름</th>
+                <th>주소</th>
+                <th>성명</th>
+                <th>위로 아래</th>
+                <th>차단</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+
 
 </body>
 </html>
