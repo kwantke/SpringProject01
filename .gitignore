@@ -4,5 +4,7 @@
 out/
 /out
 /target
-target/
-artifacts/
+target/*
+*.jar
+*.lst
+artifacts/*
