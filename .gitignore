@@ -3,5 +3,6 @@
 *.class
 out/
 /out
-/target/
+/target
+target/
 artifacts/
